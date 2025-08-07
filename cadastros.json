@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "temperatura": "2",
+        "timestemp": "3"
+    },
+    {
+        "id": "3",
+        "temperatura": "2",
+        "timestemp": "1"
+    },
+    {
+        "id": "3",
+        "temperatura": "2",
+        "timestemp": "1"
+    },
+    {
+        "id": "4",
+        "temperatura": "73",
+        "timestemp": "2"
+    },
+    {
+        "id": "7",
+        "temperatura": "46",
+        "timestemp": "2"
+    },
+    {
+        "id": "68",
+        "temperatura": "5",
+        "timestemp": "3"
+    },
+    {
+        "id": "6",
+        "temperatura": "40",
+        "timestemp": "20"
+    },
+    {
+        "id": "20",
+        "temperatura": "69",
+        "timestemp": "67"
+    },
+    {
+        "id": "26",
+        "temperatura": "15",
+        "timestemp": "7"
+    },
+    {
+        "id": "5",
+        "temperatura": "42",
+        "timestemp": "6"
+    },
+    {
+        "id": "76",
+        "temperatura": "30",
+        "timestemp": "14"
+    },
+    {
+        "id": "63",
+        "temperatura": "100",
+        "timestemp": "54"
+    }
+]

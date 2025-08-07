@@ -1,0 +1,4 @@
+ALERT: Sensor 6 reported out-of-range temperature: 40°C
+ALERT: Sensor 20 reported out-of-range temperature: 69°C
+ALERT: Sensor 5 reported out-of-range temperature: 42°C
+ALERT: Sensor 63 reported out-of-range temperature: 100°C
