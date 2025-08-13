@@ -1,62 +1,1037 @@
 [
     {
         "id": "1",
-        "temperatura": "2",
-        "timestemp": "3"
+        "temperatura": 11.2,
+        "timestamp": "2025-08-13T23:04:58.067203"
+    },
+    {
+        "id": "1",
+        "temperatura": 25.05,
+        "timestamp": "2025-08-13T23:05:08.067394"
     },
     {
         "id": "3",
-        "temperatura": "2",
-        "timestemp": "1"
+        "temperatura": 30.23,
+        "timestamp": "2025-08-13T23:05:13.303814"
+    },
+    {
+        "id": "1",
+        "temperatura": 13.73,
+        "timestamp": "2025-08-13T23:05:18.067579"
     },
     {
         "id": "3",
-        "temperatura": "2",
-        "timestemp": "1"
+        "temperatura": 10.79,
+        "timestamp": "2025-08-13T23:05:23.304056"
     },
     {
-        "id": "4",
-        "temperatura": "73",
-        "timestemp": "2"
+        "id": "1",
+        "temperatura": 24.91,
+        "timestamp": "2025-08-13T23:05:28.067806"
+    },
+    {
+        "id": "3",
+        "temperatura": 24.4,
+        "timestamp": "2025-08-13T23:05:33.304291"
+    },
+    {
+        "id": "1",
+        "temperatura": 27.13,
+        "timestamp": "2025-08-13T23:05:38.068062"
+    },
+    {
+        "id": "3",
+        "temperatura": 32.71,
+        "timestamp": "2025-08-13T23:05:43.304528"
+    },
+    {
+        "id": "1",
+        "temperatura": 15.66,
+        "timestamp": "2025-08-13T23:05:48.068282"
+    },
+    {
+        "id": "3",
+        "temperatura": 25.09,
+        "timestamp": "2025-08-13T23:05:53.304739"
+    },
+    {
+        "id": "1",
+        "temperatura": 20.71,
+        "timestamp": "2025-08-13T23:05:58.068512"
+    },
+    {
+        "id": "3",
+        "temperatura": 36.09,
+        "timestamp": "2025-08-13T23:06:03.304962"
+    },
+    {
+        "id": "1",
+        "temperatura": 20.73,
+        "timestamp": "2025-08-13T23:06:08.068700"
+    },
+    {
+        "id": "3",
+        "temperatura": 15.0,
+        "timestamp": "2025-08-13T23:06:13.305225"
+    },
+    {
+        "id": "1",
+        "temperatura": 30.78,
+        "timestamp": "2025-08-13T23:06:18.068876"
+    },
+    {
+        "id": "3",
+        "temperatura": 27.1,
+        "timestamp": "2025-08-13T23:06:23.305448"
+    },
+    {
+        "id": "1",
+        "temperatura": 10.53,
+        "timestamp": "2025-08-13T23:06:28.069077"
+    },
+    {
+        "id": "3",
+        "temperatura": 35.45,
+        "timestamp": "2025-08-13T23:06:33.305648"
+    },
+    {
+        "id": "1",
+        "temperatura": 34.79,
+        "timestamp": "2025-08-13T23:06:38.069289"
+    },
+    {
+        "id": "3",
+        "temperatura": 12.06,
+        "timestamp": "2025-08-13T23:06:43.305835"
+    },
+    {
+        "id": "1",
+        "temperatura": 19.81,
+        "timestamp": "2025-08-13T23:06:48.069497"
+    },
+    {
+        "id": "3",
+        "temperatura": 22.13,
+        "timestamp": "2025-08-13T23:06:53.306052"
+    },
+    {
+        "id": "1",
+        "temperatura": 12.12,
+        "timestamp": "2025-08-13T23:06:58.069695"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.46,
+        "timestamp": "2025-08-13T23:07:03.306283"
+    },
+    {
+        "id": "1",
+        "temperatura": 20.54,
+        "timestamp": "2025-08-13T23:07:08.069886"
+    },
+    {
+        "id": "3",
+        "temperatura": 37.48,
+        "timestamp": "2025-08-13T23:07:13.306516"
+    },
+    {
+        "id": "1",
+        "temperatura": 39.23,
+        "timestamp": "2025-08-13T23:07:18.070070"
+    },
+    {
+        "id": "3",
+        "temperatura": 33.29,
+        "timestamp": "2025-08-13T23:07:23.306715"
+    },
+    {
+        "id": "1",
+        "temperatura": 13.89,
+        "timestamp": "2025-08-13T23:07:28.070292"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.38,
+        "timestamp": "2025-08-13T23:07:33.306938"
+    },
+    {
+        "id": "1",
+        "temperatura": 17.48,
+        "timestamp": "2025-08-13T23:07:38.070520"
+    },
+    {
+        "id": "3",
+        "temperatura": 12.19,
+        "timestamp": "2025-08-13T23:07:43.307194"
+    },
+    {
+        "id": "1",
+        "temperatura": 24.76,
+        "timestamp": "2025-08-13T23:07:48.070748"
+    },
+    {
+        "id": "3",
+        "temperatura": 10.64,
+        "timestamp": "2025-08-13T23:07:53.307425"
+    },
+    {
+        "id": "1",
+        "temperatura": 31.55,
+        "timestamp": "2025-08-13T23:07:58.071020"
+    },
+    {
+        "id": "3",
+        "temperatura": 25.67,
+        "timestamp": "2025-08-13T23:08:03.307628"
+    },
+    {
+        "id": "1",
+        "temperatura": 24.56,
+        "timestamp": "2025-08-13T23:08:08.071231"
+    },
+    {
+        "id": "3",
+        "temperatura": 30.63,
+        "timestamp": "2025-08-13T23:08:13.307864"
+    },
+    {
+        "id": "1",
+        "temperatura": 25.79,
+        "timestamp": "2025-08-13T23:08:18.071437"
+    },
+    {
+        "id": "3",
+        "temperatura": 38.07,
+        "timestamp": "2025-08-13T23:08:23.308053"
+    },
+    {
+        "id": "1",
+        "temperatura": 24.31,
+        "timestamp": "2025-08-13T23:08:28.071619"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.07,
+        "timestamp": "2025-08-13T23:08:33.308297"
+    },
+    {
+        "id": "1",
+        "temperatura": 14.23,
+        "timestamp": "2025-08-13T23:08:38.071779"
+    },
+    {
+        "id": "3",
+        "temperatura": 11.56,
+        "timestamp": "2025-08-13T23:08:43.308514"
+    },
+    {
+        "id": "1",
+        "temperatura": 23.55,
+        "timestamp": "2025-08-13T23:08:48.072022"
+    },
+    {
+        "id": "3",
+        "temperatura": 35.08,
+        "timestamp": "2025-08-13T23:08:53.308731"
+    },
+    {
+        "id": "1",
+        "temperatura": 19.62,
+        "timestamp": "2025-08-13T23:08:58.072239"
+    },
+    {
+        "id": "3",
+        "temperatura": 33.29,
+        "timestamp": "2025-08-13T23:09:03.308939"
+    },
+    {
+        "id": "1",
+        "temperatura": 13.28,
+        "timestamp": "2025-08-13T23:09:08.072455"
+    },
+    {
+        "id": "3",
+        "temperatura": 23.29,
+        "timestamp": "2025-08-13T23:09:13.309209"
+    },
+    {
+        "id": "1",
+        "temperatura": 29.37,
+        "timestamp": "2025-08-13T23:09:18.072678"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.22,
+        "timestamp": "2025-08-13T23:09:23.309450"
+    },
+    {
+        "id": "1",
+        "temperatura": 37.67,
+        "timestamp": "2025-08-13T23:09:28.072892"
+    },
+    {
+        "id": "3",
+        "temperatura": 39.73,
+        "timestamp": "2025-08-13T23:09:33.309667"
+    },
+    {
+        "id": "1",
+        "temperatura": 36.6,
+        "timestamp": "2025-08-13T23:09:38.073128"
+    },
+    {
+        "id": "3",
+        "temperatura": 13.5,
+        "timestamp": "2025-08-13T23:09:43.309882"
+    },
+    {
+        "id": "1",
+        "temperatura": 24.24,
+        "timestamp": "2025-08-13T23:09:48.073362"
     },
     {
         "id": "7",
-        "temperatura": "46",
-        "timestemp": "2"
+        "temperatura": 22.97,
+        "timestamp": "2025-08-13T23:09:48.723195"
     },
     {
-        "id": "68",
-        "temperatura": "5",
-        "timestemp": "3"
+        "id": "3",
+        "temperatura": 30.96,
+        "timestamp": "2025-08-13T23:09:53.310088"
     },
     {
-        "id": "6",
-        "temperatura": "40",
-        "timestemp": "20"
+        "id": "1",
+        "temperatura": 21.07,
+        "timestamp": "2025-08-13T23:09:58.073537"
     },
     {
-        "id": "20",
-        "temperatura": "69",
-        "timestemp": "67"
+        "id": "3",
+        "temperatura": 23.64,
+        "timestamp": "2025-08-13T23:10:03.310327"
     },
     {
-        "id": "26",
-        "temperatura": "15",
-        "timestemp": "7"
+        "id": "1",
+        "temperatura": 19.89,
+        "timestamp": "2025-08-13T23:10:08.073808"
     },
     {
-        "id": "5",
-        "temperatura": "42",
-        "timestemp": "6"
+        "id": "3",
+        "temperatura": 16.65,
+        "timestamp": "2025-08-13T23:10:13.310529"
     },
     {
-        "id": "76",
-        "temperatura": "30",
-        "timestemp": "14"
+        "id": "1",
+        "temperatura": 23.97,
+        "timestamp": "2025-08-13T23:10:18.074039"
     },
     {
-        "id": "63",
-        "temperatura": "100",
-        "timestemp": "54"
+        "id": "7",
+        "temperatura": 19.18,
+        "timestamp": "2025-08-13T23:10:18.723355"
+    },
+    {
+        "id": "3",
+        "temperatura": 17.56,
+        "timestamp": "2025-08-13T23:10:23.310708"
+    },
+    {
+        "id": "1",
+        "temperatura": 23.72,
+        "timestamp": "2025-08-13T23:10:28.074250"
+    },
+    {
+        "id": "9",
+        "temperatura": 16.04,
+        "timestamp": "2025-08-13T23:10:33.070664"
+    },
+    {
+        "id": "3",
+        "temperatura": 22.43,
+        "timestamp": "2025-08-13T23:10:33.310865"
+    },
+    {
+        "id": "1",
+        "temperatura": 30.86,
+        "timestamp": "2025-08-13T23:10:38.074455"
+    },
+    {
+        "id": "9",
+        "temperatura": 38.16,
+        "timestamp": "2025-08-13T23:10:43.070900"
+    },
+    {
+        "id": "3",
+        "temperatura": 19.83,
+        "timestamp": "2025-08-13T23:10:43.311041"
+    },
+    {
+        "id": "1",
+        "temperatura": 38.72,
+        "timestamp": "2025-08-13T23:10:48.074675"
+    },
+    {
+        "id": "7",
+        "temperatura": 35.12,
+        "timestamp": "2025-08-13T23:10:48.723582"
+    },
+    {
+        "id": "9",
+        "temperatura": 32.62,
+        "timestamp": "2025-08-13T23:10:53.071131"
+    },
+    {
+        "id": "3",
+        "temperatura": 31.63,
+        "timestamp": "2025-08-13T23:10:53.311226"
+    },
+    {
+        "id": "1",
+        "temperatura": 27.15,
+        "timestamp": "2025-08-13T23:10:58.074894"
+    },
+    {
+        "id": "9",
+        "temperatura": 33.29,
+        "timestamp": "2025-08-13T23:11:03.071312"
+    },
+    {
+        "id": "3",
+        "temperatura": 21.99,
+        "timestamp": "2025-08-13T23:11:03.311416"
+    },
+    {
+        "id": "1",
+        "temperatura": 15.28,
+        "timestamp": "2025-08-13T23:11:08.075119"
+    },
+    {
+        "id": "9",
+        "temperatura": 21.39,
+        "timestamp": "2025-08-13T23:11:13.071484"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.47,
+        "timestamp": "2025-08-13T23:11:13.311635"
+    },
+    {
+        "id": "1",
+        "temperatura": 34.55,
+        "timestamp": "2025-08-13T23:11:18.075321"
+    },
+    {
+        "id": "7",
+        "temperatura": 14.0,
+        "timestamp": "2025-08-13T23:11:18.723768"
+    },
+    {
+        "id": "9",
+        "temperatura": 31.47,
+        "timestamp": "2025-08-13T23:11:23.071667"
+    },
+    {
+        "id": "3",
+        "temperatura": 20.95,
+        "timestamp": "2025-08-13T23:11:23.311826"
+    },
+    {
+        "id": "1",
+        "temperatura": 34.94,
+        "timestamp": "2025-08-13T23:11:28.075504"
+    },
+    {
+        "id": "9",
+        "temperatura": 33.77,
+        "timestamp": "2025-08-13T23:11:33.071884"
+    },
+    {
+        "id": "3",
+        "temperatura": 33.29,
+        "timestamp": "2025-08-13T23:11:33.312018"
+    },
+    {
+        "id": "1",
+        "temperatura": 10.54,
+        "timestamp": "2025-08-13T23:11:38.075737"
+    },
+    {
+        "id": "9",
+        "temperatura": 30.23,
+        "timestamp": "2025-08-13T23:11:43.072125"
+    },
+    {
+        "id": "3",
+        "temperatura": 13.82,
+        "timestamp": "2025-08-13T23:11:43.312212"
+    },
+    {
+        "id": "1",
+        "temperatura": 39.01,
+        "timestamp": "2025-08-13T23:11:48.076089"
+    },
+    {
+        "id": "7",
+        "temperatura": 20.23,
+        "timestamp": "2025-08-13T23:11:48.724009"
+    },
+    {
+        "id": "9",
+        "temperatura": 31.74,
+        "timestamp": "2025-08-13T23:11:53.072796"
+    },
+    {
+        "id": "3",
+        "temperatura": 24.65,
+        "timestamp": "2025-08-13T23:11:53.312382"
+    },
+    {
+        "id": "1",
+        "temperatura": 35.67,
+        "timestamp": "2025-08-13T23:11:58.076282"
+    },
+    {
+        "id": "9",
+        "temperatura": 19.56,
+        "timestamp": "2025-08-13T23:12:03.073040"
+    },
+    {
+        "id": "3",
+        "temperatura": 35.55,
+        "timestamp": "2025-08-13T23:12:03.312544"
+    },
+    {
+        "id": "1",
+        "temperatura": 15.73,
+        "timestamp": "2025-08-13T23:12:08.076476"
+    },
+    {
+        "id": "9",
+        "temperatura": 27.05,
+        "timestamp": "2025-08-13T23:12:13.073226"
+    },
+    {
+        "id": "3",
+        "temperatura": 28.37,
+        "timestamp": "2025-08-13T23:12:13.312738"
+    },
+    {
+        "id": "1",
+        "temperatura": 36.84,
+        "timestamp": "2025-08-13T23:12:18.076688"
+    },
+    {
+        "id": "7",
+        "temperatura": 15.9,
+        "timestamp": "2025-08-13T23:12:18.724198"
+    },
+    {
+        "id": "9",
+        "temperatura": 34.23,
+        "timestamp": "2025-08-13T23:12:23.073418"
+    },
+    {
+        "id": "3",
+        "temperatura": 28.28,
+        "timestamp": "2025-08-13T23:12:23.312923"
+    },
+    {
+        "id": "1",
+        "temperatura": 34.8,
+        "timestamp": "2025-08-13T23:12:28.076904"
+    },
+    {
+        "id": "9",
+        "temperatura": 23.41,
+        "timestamp": "2025-08-13T23:12:33.073609"
+    },
+    {
+        "id": "3",
+        "temperatura": 10.46,
+        "timestamp": "2025-08-13T23:12:33.313121"
+    },
+    {
+        "id": "1",
+        "temperatura": 39.51,
+        "timestamp": "2025-08-13T23:12:38.077138"
+    },
+    {
+        "id": "9",
+        "temperatura": 38.14,
+        "timestamp": "2025-08-13T23:12:43.073817"
+    },
+    {
+        "id": "3",
+        "temperatura": 15.36,
+        "timestamp": "2025-08-13T23:12:43.313295"
+    },
+    {
+        "id": "1",
+        "temperatura": 18.13,
+        "timestamp": "2025-08-13T23:12:48.077331"
+    },
+    {
+        "id": "7",
+        "temperatura": 14.7,
+        "timestamp": "2025-08-13T23:12:48.724385"
+    },
+    {
+        "id": "9",
+        "temperatura": 38.69,
+        "timestamp": "2025-08-13T23:12:53.074029"
+    },
+    {
+        "id": "3",
+        "temperatura": 10.17,
+        "timestamp": "2025-08-13T23:12:53.313465"
+    },
+    {
+        "id": "1",
+        "temperatura": 33.17,
+        "timestamp": "2025-08-13T23:12:58.077517"
+    },
+    {
+        "id": "9",
+        "temperatura": 37.82,
+        "timestamp": "2025-08-13T23:13:03.074228"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.7,
+        "timestamp": "2025-08-13T23:13:03.313648"
+    },
+    {
+        "id": "1",
+        "temperatura": 23.9,
+        "timestamp": "2025-08-13T23:13:08.077718"
+    },
+    {
+        "id": "9",
+        "temperatura": 10.53,
+        "timestamp": "2025-08-13T23:13:13.074432"
+    },
+    {
+        "id": "3",
+        "temperatura": 36.34,
+        "timestamp": "2025-08-13T23:13:13.313800"
+    },
+    {
+        "id": "1",
+        "temperatura": 28.25,
+        "timestamp": "2025-08-13T23:13:18.077888"
+    },
+    {
+        "id": "7",
+        "temperatura": 38.75,
+        "timestamp": "2025-08-13T23:13:18.724582"
+    },
+    {
+        "id": "9",
+        "temperatura": 27.94,
+        "timestamp": "2025-08-13T23:13:23.074618"
+    },
+    {
+        "id": "3",
+        "temperatura": 26.89,
+        "timestamp": "2025-08-13T23:13:23.313962"
+    },
+    {
+        "id": "1",
+        "temperatura": 28.98,
+        "timestamp": "2025-08-13T23:13:28.078099"
+    },
+    {
+        "id": "9",
+        "temperatura": 35.03,
+        "timestamp": "2025-08-13T23:13:33.074836"
+    },
+    {
+        "id": "3",
+        "temperatura": 27.43,
+        "timestamp": "2025-08-13T23:13:33.314149"
+    },
+    {
+        "id": "1",
+        "temperatura": 30.06,
+        "timestamp": "2025-08-13T23:13:38.078302"
+    },
+    {
+        "id": "9",
+        "temperatura": 33.44,
+        "timestamp": "2025-08-13T23:13:43.075033"
+    },
+    {
+        "id": "3",
+        "temperatura": 13.5,
+        "timestamp": "2025-08-13T23:13:43.314312"
+    },
+    {
+        "id": "1",
+        "temperatura": 11.1,
+        "timestamp": "2025-08-13T23:13:48.078500"
+    },
+    {
+        "id": "7",
+        "temperatura": 15.15,
+        "timestamp": "2025-08-13T23:13:48.724756"
+    },
+    {
+        "id": "9",
+        "temperatura": 12.09,
+        "timestamp": "2025-08-13T23:13:53.075211"
+    },
+    {
+        "id": "3",
+        "temperatura": 38.52,
+        "timestamp": "2025-08-13T23:13:53.314506"
+    },
+    {
+        "id": "1",
+        "temperatura": 25.37,
+        "timestamp": "2025-08-13T23:13:58.078687"
+    },
+    {
+        "id": "9",
+        "temperatura": 33.68,
+        "timestamp": "2025-08-13T23:14:03.075412"
+    },
+    {
+        "id": "3",
+        "temperatura": 25.34,
+        "timestamp": "2025-08-13T23:14:03.314664"
+    },
+    {
+        "id": "1",
+        "temperatura": 30.21,
+        "timestamp": "2025-08-13T23:14:08.078838"
+    },
+    {
+        "id": "9",
+        "temperatura": 26.19,
+        "timestamp": "2025-08-13T23:14:13.075624"
+    },
+    {
+        "id": "3",
+        "temperatura": 13.04,
+        "timestamp": "2025-08-13T23:14:13.314828"
+    },
+    {
+        "id": "1",
+        "temperatura": 39.65,
+        "timestamp": "2025-08-13T23:14:18.079029"
+    },
+    {
+        "id": "7",
+        "temperatura": 32.54,
+        "timestamp": "2025-08-13T23:14:18.724929"
+    },
+    {
+        "id": "9",
+        "temperatura": 16.33,
+        "timestamp": "2025-08-13T23:14:23.075794"
+    },
+    {
+        "id": "3",
+        "temperatura": 24.71,
+        "timestamp": "2025-08-13T23:14:23.314977"
+    },
+    {
+        "id": "1",
+        "temperatura": 15.22,
+        "timestamp": "2025-08-13T23:14:28.079198"
+    },
+    {
+        "id": "9",
+        "temperatura": 20.34,
+        "timestamp": "2025-08-13T23:14:33.076027"
+    },
+    {
+        "id": "3",
+        "temperatura": 18.44,
+        "timestamp": "2025-08-13T23:14:33.315167"
+    },
+    {
+        "id": "1",
+        "temperatura": 18.55,
+        "timestamp": "2025-08-13T23:14:38.079373"
+    },
+    {
+        "id": "9",
+        "temperatura": 22.41,
+        "timestamp": "2025-08-13T23:14:43.076230"
+    },
+    {
+        "id": "3",
+        "temperatura": 26.16,
+        "timestamp": "2025-08-13T23:14:43.315322"
+    },
+    {
+        "id": "1",
+        "temperatura": 25.32,
+        "timestamp": "2025-08-13T23:14:48.079559"
+    },
+    {
+        "id": "7",
+        "temperatura": 39.51,
+        "timestamp": "2025-08-13T23:14:48.725119"
+    },
+    {
+        "id": "9",
+        "temperatura": 30.75,
+        "timestamp": "2025-08-13T23:14:53.076407"
+    },
+    {
+        "id": "3",
+        "temperatura": 28.73,
+        "timestamp": "2025-08-13T23:14:53.315473"
+    },
+    {
+        "id": "1",
+        "temperatura": 37.12,
+        "timestamp": "2025-08-13T23:14:58.079720"
+    },
+    {
+        "id": "9",
+        "temperatura": 27.61,
+        "timestamp": "2025-08-13T23:15:03.076590"
+    },
+    {
+        "id": "3",
+        "temperatura": 18.0,
+        "timestamp": "2025-08-13T23:15:03.315636"
+    },
+    {
+        "id": "1",
+        "temperatura": 39.24,
+        "timestamp": "2025-08-13T23:15:08.079894"
+    },
+    {
+        "id": "9",
+        "temperatura": 28.7,
+        "timestamp": "2025-08-13T23:15:13.076825"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.13,
+        "timestamp": "2025-08-13T23:15:13.315810"
+    },
+    {
+        "id": "1",
+        "temperatura": 20.22,
+        "timestamp": "2025-08-13T23:15:18.080072"
+    },
+    {
+        "id": "7",
+        "temperatura": 35.87,
+        "timestamp": "2025-08-13T23:15:18.725320"
+    },
+    {
+        "id": "9",
+        "temperatura": 33.7,
+        "timestamp": "2025-08-13T23:15:23.077044"
+    },
+    {
+        "id": "3",
+        "temperatura": 24.27,
+        "timestamp": "2025-08-13T23:15:23.315944"
+    },
+    {
+        "id": "1",
+        "temperatura": 25.67,
+        "timestamp": "2025-08-13T23:15:28.080264"
+    },
+    {
+        "id": "9",
+        "temperatura": 37.05,
+        "timestamp": "2025-08-13T23:15:33.077217"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.82,
+        "timestamp": "2025-08-13T23:15:33.316155"
+    },
+    {
+        "id": "1",
+        "temperatura": 33.47,
+        "timestamp": "2025-08-13T23:15:38.080435"
+    },
+    {
+        "id": "9",
+        "temperatura": 26.61,
+        "timestamp": "2025-08-13T23:15:43.077406"
+    },
+    {
+        "id": "3",
+        "temperatura": 30.15,
+        "timestamp": "2025-08-13T23:15:43.316352"
+    },
+    {
+        "id": "1",
+        "temperatura": 32.87,
+        "timestamp": "2025-08-13T23:15:48.080626"
+    },
+    {
+        "id": "7",
+        "temperatura": 12.2,
+        "timestamp": "2025-08-13T23:15:48.725526"
+    },
+    {
+        "id": "9",
+        "temperatura": 27.38,
+        "timestamp": "2025-08-13T23:15:53.077572"
+    },
+    {
+        "id": "3",
+        "temperatura": 21.54,
+        "timestamp": "2025-08-13T23:15:53.316500"
+    },
+    {
+        "id": "1",
+        "temperatura": 39.65,
+        "timestamp": "2025-08-13T23:15:58.080832"
+    },
+    {
+        "id": "9",
+        "temperatura": 24.18,
+        "timestamp": "2025-08-13T23:16:03.077764"
+    },
+    {
+        "id": "3",
+        "temperatura": 31.96,
+        "timestamp": "2025-08-13T23:16:03.316652"
+    },
+    {
+        "id": "1",
+        "temperatura": 15.18,
+        "timestamp": "2025-08-13T23:16:08.081034"
+    },
+    {
+        "id": "9",
+        "temperatura": 37.61,
+        "timestamp": "2025-08-13T23:16:13.077952"
+    },
+    {
+        "id": "3",
+        "temperatura": 22.73,
+        "timestamp": "2025-08-13T23:16:13.316791"
+    },
+    {
+        "id": "1",
+        "temperatura": 11.13,
+        "timestamp": "2025-08-13T23:16:18.081208"
+    },
+    {
+        "id": "7",
+        "temperatura": 30.92,
+        "timestamp": "2025-08-13T23:16:18.725839"
+    },
+    {
+        "id": "9",
+        "temperatura": 19.29,
+        "timestamp": "2025-08-13T23:16:23.078132"
+    },
+    {
+        "id": "3",
+        "temperatura": 20.84,
+        "timestamp": "2025-08-13T23:16:23.316969"
+    },
+    {
+        "id": "1",
+        "temperatura": 14.95,
+        "timestamp": "2025-08-13T23:16:28.081415"
+    },
+    {
+        "id": "9",
+        "temperatura": 28.96,
+        "timestamp": "2025-08-13T23:16:33.078325"
+    },
+    {
+        "id": "3",
+        "temperatura": 28.26,
+        "timestamp": "2025-08-13T23:16:33.317149"
+    },
+    {
+        "id": "1",
+        "temperatura": 13.66,
+        "timestamp": "2025-08-13T23:16:38.081615"
+    },
+    {
+        "id": "9",
+        "temperatura": 15.97,
+        "timestamp": "2025-08-13T23:16:43.078512"
+    },
+    {
+        "id": "3",
+        "temperatura": 31.6,
+        "timestamp": "2025-08-13T23:16:43.317303"
+    },
+    {
+        "id": "1",
+        "temperatura": 21.99,
+        "timestamp": "2025-08-13T23:16:48.081818"
+    },
+    {
+        "id": "7",
+        "temperatura": 32.93,
+        "timestamp": "2025-08-13T23:16:48.726045"
+    },
+    {
+        "id": "9",
+        "temperatura": 12.38,
+        "timestamp": "2025-08-13T23:16:53.078676"
+    },
+    {
+        "id": "3",
+        "temperatura": 12.98,
+        "timestamp": "2025-08-13T23:16:53.317490"
+    },
+    {
+        "id": "1",
+        "temperatura": 16.33,
+        "timestamp": "2025-08-13T23:16:58.082027"
+    },
+    {
+        "id": "9",
+        "temperatura": 33.16,
+        "timestamp": "2025-08-13T23:17:03.078839"
+    },
+    {
+        "id": "3",
+        "temperatura": 14.8,
+        "timestamp": "2025-08-13T23:17:03.317656"
+    },
+    {
+        "id": "1",
+        "temperatura": 11.72,
+        "timestamp": "2025-08-13T23:17:08.082239"
+    },
+    {
+        "id": "9",
+        "temperatura": 15.62,
+        "timestamp": "2025-08-13T23:17:13.079028"
+    },
+    {
+        "id": "3",
+        "temperatura": 17.46,
+        "timestamp": "2025-08-13T23:17:13.317828"
+    },
+    {
+        "id": "1",
+        "temperatura": 25.1,
+        "timestamp": "2025-08-13T23:17:18.082418"
+    },
+    {
+        "id": "7",
+        "temperatura": 30.79,
+        "timestamp": "2025-08-13T23:17:18.726244"
+    },
+    {
+        "id": "9",
+        "temperatura": 10.96,
+        "timestamp": "2025-08-13T23:17:23.080639"
+    },
+    {
+        "id": "3",
+        "temperatura": 38.04,
+        "timestamp": "2025-08-13T23:17:23.318341"
     }
 ]

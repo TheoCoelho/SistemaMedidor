@@ -1,0 +1,5 @@
+Média de temperatura por sensor:
+Sensor 1: 24.91 °C
+Sensor 3: 23.07 °C
+Sensor 7: 20.30 °C
+Sensor 9: 30.48 °C
