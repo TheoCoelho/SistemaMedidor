@@ -1,0 +1,9 @@
+Para garantir que sensores falhos não afetem a análise do sistema, 
+é importante implementar mecanismos de prevenção e detecção de problemas como a aplicação
+de filtragem e validação de dados, rejeitando ou marcando como invalidos valores fora de um
+ intervalo comum e usar técnicas como médias móveis para suavizar ruídos. 
+ Outra possibilidade é utilizar redundância de sensores, comparando leituras de diferentes 
+ dispositivos para identificar divergências significativas. Também é recomendável 
+ realizar monitoramento contínuo, detectando sinais de falha como repetição constante de valores, 
+ frequencia de envio anormal ou ausência prolongada de dados. Quando um sensor problemático 
+ for identificado deve ser isolado temporariamente. 
